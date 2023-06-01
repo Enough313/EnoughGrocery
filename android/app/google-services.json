@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083423471437",
+    "project_id": "enoughgrocery",
+    "storage_bucket": "enoughgrocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083423471437:android:057ae41b7d9acf6d4e6904",
+        "android_client_info": {
+          "package_name": "com.example.enoughgrocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcK8JIGfxMck3pHP1enoDsPm2rUCrWfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
